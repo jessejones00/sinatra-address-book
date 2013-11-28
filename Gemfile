@@ -9,7 +9,7 @@ group  :development do
 	gem 'listen'
 	gem 'rb-inotify',  :require => false
 	gem 'rb-fsevent',  :require => false
-	gem 'guard-unicorn'	
+	gem 'guard-unicorn'
 end
 
 group  :test do
