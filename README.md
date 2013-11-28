@@ -1,4 +1,3 @@
 sinatra-address-book
 ====================
-
-Instant Sinatra Starter
+An example program of various Sinatra functionality.
